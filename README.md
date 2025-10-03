@@ -21,7 +21,7 @@ This project provided invaluable experience in several core programming concepts
 2. **Open your terminal/command prompt:**
 3. **Run the script**: Navigate to the directory where you saved the file and execute:
 
-> python calculator.py
+> python Calculator.py
 
 4. Follow the on-screen menu instructions!
 ### 💡 The Journey Continues
