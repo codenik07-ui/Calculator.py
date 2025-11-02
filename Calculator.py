@@ -1,4 +1,4 @@
-'''This is my first project as beginner in python and I know it's very basic project but It's crucial for my future , to do weird things'''
+'''This is my first project as beginner in python and I know it's very basic project but It's crucial for my future '''
 # Functions Room where we create functions for our work
 
 def add(n1,n2):
@@ -185,4 +185,5 @@ def main():
         exit()
         
 if __name__ == "__main__":
+
     main()
