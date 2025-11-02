@@ -181,9 +181,9 @@ def main():
                     result = Radical_value(num1, num2)
                 print(f"\n It's your square root value:{result} ")
     except ValueError:
-        print("J\n ust Choose suggested number please not anything else😅 ")
+        print("\n Just Choose suggested number please not anything else😅 ")
         exit()
         
 if __name__ == "__main__":
-
     main()
+
